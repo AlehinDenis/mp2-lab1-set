@@ -1,6 +1,0 @@
-C:/Users/Денис/Desktop/mp2-lab1-set/sln/vc19/CMakeFiles/ALL_BUILD.dir
-C:/Users/Денис/Desktop/mp2-lab1-set/sln/vc19/CMakeFiles/ZERO_CHECK.dir
-C:/Users/Денис/Desktop/mp2-lab1-set/sln/vc19/src/CMakeFiles/set.dir
-C:/Users/Денис/Desktop/mp2-lab1-set/sln/vc19/samples/CMakeFiles/sample_prime_numbers.dir
-C:/Users/Денис/Desktop/mp2-lab1-set/sln/vc19/gtest/CMakeFiles/gtest.dir
-C:/Users/Денис/Desktop/mp2-lab1-set/sln/vc19/test/CMakeFiles/test_set.dir
