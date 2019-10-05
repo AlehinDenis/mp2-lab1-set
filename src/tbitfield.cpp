@@ -7,6 +7,7 @@
 
 #include "tbitfield.h"
 #include <algorithm>
+#include <string>
 
 TBitField::TBitField(int len)
 {
